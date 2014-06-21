@@ -49,6 +49,7 @@ namespace TeachMeBinary
             int thirtytwo = Convert.ToInt32(_32.Text);
             int sixteen = Convert.ToInt32(_16.Text);
             int eight = Convert.ToInt32(_8.Text);
+            int four= Convert.ToInt32(_4.Text);
             int two = Convert.ToInt32(_2.Text);
             int one = Convert.ToInt32(_1.Text);
 
@@ -157,6 +158,26 @@ namespace TeachMeBinary
 
             }
 
+            if (four != 0 && four != 1)
+            {
+
+                var messageDialog5 = new MessageDialog("Please enter a 0 or a 1");
+                await messageDialog5.ShowAsync();
+                four = 0;
+                _4.Text = "0";
+
+
+
+            }
+
+            else
+            {
+
+                four = four;
+
+
+            }
+
             if (two != 0 && two != 1)
             {
 
@@ -201,7 +222,7 @@ namespace TeachMeBinary
 
             
           
-           int result = (128 * onetwoeight) + (64 * sixtyfour) + (32 * thirtytwo) + (16 * sixteen) + (8 * eight) + (2 * two) + (1 * one);
+           int result = (128 * onetwoeight) + (64 * sixtyfour) + (32 * thirtytwo) + (16 * sixteen) + (8 * eight) + (4 * four) + (2 * two) + (1 * one);
            calc.Text = result.ToString();
         }
 

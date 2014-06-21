@@ -14,7 +14,7 @@
     <ProjectTypeGuids>{BC8A1FFA-BEE3-4634-8014-F334798102B3};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <PackageCertificateKeyFile>TeachMeBinary_StoreKey.pfx</PackageCertificateKeyFile>
     <AppxAutoIncrementPackageRevision>True</AppxAutoIncrementPackageRevision>
-    <PackageCertificateThumbprint>CC7B3A92FA3E7893AC9488B6D5BC13C9C9064D6D</PackageCertificateThumbprint>
+    <PackageCertificateThumbprint>C4F74197728C598C5D46F2E56C30618DE329A100</PackageCertificateThumbprint>
     <TargetPlatformVersion>8.1</TargetPlatformVersion>
     <MinimumVisualStudioVersion>12</MinimumVisualStudioVersion>
     <AppxBundlePlatforms>neutral</AppxBundlePlatforms>

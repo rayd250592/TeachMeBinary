@@ -18,20 +18,22 @@
         <TextBlock HorizontalAlignment="Left" Margin="149,224,0,0" TextWrapping="Wrap" Text="128" VerticalAlignment="Top" FontFamily="Global User Interface" FontSize="36"/>
         <TextBlock HorizontalAlignment="Left" Margin="351,224,0,0" TextWrapping="Wrap" Text="64" VerticalAlignment="Top" FontFamily="Global User Interface" FontSize="36"/>
         <TextBlock HorizontalAlignment="Left" Margin="521,224,0,0" TextWrapping="Wrap" Text="32" VerticalAlignment="Top" FontFamily="Global User Interface" FontSize="36"/>
-        <TextBlock HorizontalAlignment="Left" Margin="737,224,0,0" TextWrapping="Wrap" Text="16" VerticalAlignment="Top" FontFamily="Global User Interface" FontSize="36"/>
-        <TextBlock HorizontalAlignment="Left" Margin="940,224,0,0" TextWrapping="Wrap" Text="8" VerticalAlignment="Top" FontFamily="Global User Interface" FontSize="36"/>
+        <TextBlock HorizontalAlignment="Left" Margin="661,224,0,0" TextWrapping="Wrap" Text="16" VerticalAlignment="Top" FontFamily="Global User Interface" FontSize="36"/>
+        <TextBlock HorizontalAlignment="Left" Margin="864,224,0,0" TextWrapping="Wrap" Text="8" VerticalAlignment="Top" FontFamily="Global User Interface" FontSize="36"/>
         <TextBlock HorizontalAlignment="Left" Margin="1089,224,0,0" TextWrapping="Wrap" Text="2" VerticalAlignment="Top" FontFamily="Global User Interface" FontSize="36"/>
         <TextBox x:Name="_2" HorizontalAlignment="Left" Margin="1044,323,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" FontSize="22"/>
         <TextBox x:Name="_64" HorizontalAlignment="Left" Margin="326,323,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" FontSize="22"/>
         <TextBox x:Name="_32" HorizontalAlignment="Left" Margin="496,323,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" FontSize="22"/>
-        <TextBox x:Name="_8" HorizontalAlignment="Left" Margin="895,323,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" FontSize="22"/>
+        <TextBox x:Name="_8" HorizontalAlignment="Left" Margin="819,323,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" FontSize="22"/>
         <TextBox x:Name="_128" HorizontalAlignment="Left" Margin="143,323,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" FontSize="22"/>
-        <TextBox x:Name="_16" HorizontalAlignment="Left" Margin="712,323,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" FontSize="22"/>
+        <TextBox x:Name="_16" HorizontalAlignment="Left" Margin="636,323,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" FontSize="22"/>
         <TextBox x:Name="_1" HorizontalAlignment="Left" Margin="1213,323,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" FontSize="22"/>
         <Button Content="Calculate" HorizontalAlignment="Left" Margin="1152,413,0,0" VerticalAlignment="Top" FontSize="22" Click="Button_Click_1"/>
         <TextBlock HorizontalAlignment="Left" Margin="895,501,0,0" TextWrapping="Wrap" Text="Result: " VerticalAlignment="Top" Width="135" FontSize="36" Height="48"/>
         <TextBlock x:Name="calc" HorizontalAlignment="Left" Margin="1108,501,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="135" FontSize="36" Height="48"/>
         <TextBlock HorizontalAlignment="Left" Margin="304,38,0,0" TextWrapping="Wrap" Text="Binary - Decimal Converter" VerticalAlignment="Top" FontFamily="Global User Interface" FontSize="72"/>
+        <TextBlock HorizontalAlignment="Left" Margin="985,224,0,0" TextWrapping="Wrap" Text="4" VerticalAlignment="Top" FontFamily="Global User Interface" FontSize="36" Width="58"/>
+        <TextBox x:Name="_4" HorizontalAlignment="Left" Margin="940,323,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" FontSize="22"/>
 
     </Grid>
 </Page>
