@@ -226,6 +226,12 @@ namespace TeachMeBinary
            calc.Text = result.ToString();
         }
 
+        private async void Button_Click(object sender, RoutedEventArgs e)
+        {
+            var msg = new MessageDialog("Created by Raymond Dillon");
+            await msg.ShowAsync();
+        }
+
         
     }
 }

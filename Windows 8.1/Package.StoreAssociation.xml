@@ -376,6 +376,8 @@
     <MainPackageIdentityName>32694rayd250592.Reactions</MainPackageIdentityName>
     <MainPackageIdentityName>32694rayd250592.RepaymentCalculator</MainPackageIdentityName>
     <MainPackageIdentityName>32694rayd250592.ShapeCalc</MainPackageIdentityName>
+    <MainPackageIdentityName>32694rayd250592.SpellIT</MainPackageIdentityName>
+    <MainPackageIdentityName>32694rayd250592.TomatoJuice</MainPackageIdentityName>
     <MainPackageIdentityName>32694rayd250592.WindowClean</MainPackageIdentityName>
   </AccountPackageIdentityNames>
   <PackageInfoList LandingUrl="https://appdev.microsoft.com:443/StorePortals/Developer/Catalog/ReleaseAnchor/3b9bfb7e-d2fa-402d-bcdc-fc0e151d8b91">
@@ -383,6 +385,11 @@
       <OsMinVersion>6.2.1.0</OsMinVersion>
       <PackageArchitecture>neutral</PackageArchitecture>
       <PackageMaxArchitectureVersion>1.0.0.1</PackageMaxArchitectureVersion>
+    </PackageInfo>
+    <PackageInfo>
+      <OsMinVersion>6.3.0.0</OsMinVersion>
+      <PackageArchitecture>neutral</PackageArchitecture>
+      <PackageMaxArchitectureVersion>2.1.1.5</PackageMaxArchitectureVersion>
     </PackageInfo>
   </PackageInfoList>
 </StoreAssociation>

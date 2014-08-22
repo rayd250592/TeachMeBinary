@@ -34,6 +34,7 @@
         <TextBlock HorizontalAlignment="Left" Margin="304,38,0,0" TextWrapping="Wrap" Text="Binary - Decimal Converter" VerticalAlignment="Top" FontFamily="Global User Interface" FontSize="72"/>
         <TextBlock HorizontalAlignment="Left" Margin="985,224,0,0" TextWrapping="Wrap" Text="4" VerticalAlignment="Top" FontFamily="Global User Interface" FontSize="36" Width="58"/>
         <TextBox x:Name="_4" HorizontalAlignment="Left" Margin="940,323,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" FontSize="22"/>
+        <Button Content="About" HorizontalAlignment="Left" Margin="140,669,0,0" VerticalAlignment="Top" Height="54" Width="122" Click="Button_Click"/>
 
     </Grid>
 </Page>
