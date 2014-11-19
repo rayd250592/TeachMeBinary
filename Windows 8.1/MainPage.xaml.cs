@@ -61,7 +61,7 @@ namespace TeachMeBinary
  
             {
 
-                var messageDialog1 = new MessageDialog("Please enter a 0 or a 1");
+                var messageDialog1 = new MessageDialog("Please enter a 0 or a 1 as a binary number must be a 0 or a 1");
                 await messageDialog1.ShowAsync();
                 onetwoeight = 0;
                 _128.Text = "0";
@@ -81,7 +81,7 @@ namespace TeachMeBinary
             if (sixtyfour != 0 && sixtyfour != 1)
             {
 
-                var messageDialog2 = new MessageDialog("Please enter a 0 or a 1");
+                var messageDialog2 = new MessageDialog("Please enter a 0 or a 1 as a binary number must be a 0 or a 1");
                 await messageDialog2.ShowAsync();
                 sixtyfour = 0;
                 _64.Text = "0";
@@ -101,7 +101,7 @@ namespace TeachMeBinary
             if (thirtytwo != 0 && thirtytwo != 1)
             {
 
-                var messageDialog3 = new MessageDialog("Please enter a 0 or a 1");
+                var messageDialog3 = new MessageDialog("Please enter a 0 or a 1 as a binary number must be a 0 or a 1");
                 await messageDialog3.ShowAsync();
                 thirtytwo = 0;
                 _32.Text = "0";
@@ -121,7 +121,7 @@ namespace TeachMeBinary
             if (sixteen != 0 && sixteen != 1)
             {
 
-                var messageDialog4 = new MessageDialog("Please enter a 0 or a 1");
+                var messageDialog4 = new MessageDialog("Please enter a 0 or a 1 as a binary number must be a 0 or a 1");
                 await messageDialog4.ShowAsync();
                 sixteen = 0;
                 _16.Text = "0";
@@ -141,7 +141,7 @@ namespace TeachMeBinary
             if (eight != 0 && eight != 1)
             {
 
-                var messageDialog5 = new MessageDialog("Please enter a 0 or a 1");
+                var messageDialog5 = new MessageDialog("Please enter a 0 or a 1 as a binary number must be a 0 or a 1");
                 await messageDialog5.ShowAsync();
                 eight = 0;
                 _8.Text = "0";
@@ -161,7 +161,7 @@ namespace TeachMeBinary
             if (four != 0 && four != 1)
             {
 
-                var messageDialog5 = new MessageDialog("Please enter a 0 or a 1");
+                var messageDialog5 = new MessageDialog("Please enter a 0 or a 1 as a binary number must be a 0 or a 1");
                 await messageDialog5.ShowAsync();
                 four = 0;
                 _4.Text = "0";
@@ -181,7 +181,7 @@ namespace TeachMeBinary
             if (two != 0 && two != 1)
             {
 
-                var messageDialog6 = new MessageDialog("Please enter a 0 or a 1");
+                var messageDialog6 = new MessageDialog("Please enter a 0 or a 1 as a binary number must be a 0 or a 1");
                 await messageDialog6.ShowAsync();
                 two = 0;
                 _2.Text = "0";
@@ -201,7 +201,7 @@ namespace TeachMeBinary
             if (one != 0 && one != 1)
             {
 
-                var messageDialog7 = new MessageDialog("Please enter a 0 or a 1");
+                var messageDialog7 = new MessageDialog("Please enter a 0 or a 1 as a binary number must be a 0 or a 1");
                 await messageDialog7.ShowAsync();
                 one = 0;
                 _1.Text = "0";
